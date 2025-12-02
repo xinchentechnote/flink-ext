@@ -1,0 +1,4 @@
+[submodule "submodules/flink"]
+	path = submodules/flink
+	url = https://github.com/xinchentechnote/flink.git
+	branch = feature-1.18.0
